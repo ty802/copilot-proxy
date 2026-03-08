@@ -1,4 +1,4 @@
-### Note this project is Vibcoded!!!!
+# Note this project is Vibcoded!!!!
 
 # copilot-proxy
 
