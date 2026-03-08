@@ -1,4 +1,5 @@
 # Note this project is Vibcoded!!!!
+# this should not be used in production at all in any from just posting it incase someone else wants to build off it
 
 # copilot-proxy
 
