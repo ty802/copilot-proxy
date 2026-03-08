@@ -1,3 +1,5 @@
+### Note this project is Vibcoded!!!!
+
 # copilot-proxy
 
 **TL;DR:** A local proxy that translates Anthropic API requests to GitHub Copilot API calls, letting you use Claude models in Claude Code powered by your GitHub Copilot subscription.
